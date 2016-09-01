@@ -35,7 +35,7 @@
   "CORDEX_domain": "EUR-44; EUR-11; AFR-44",
   "terms_of_use": "unrestricted",
   "package": "downscaleR package for R, https://github.com/SantanderMetGroup/downscaleR"
-  }
+  },
 
   "4":
 { "institution":  "Meteorology Group, Universidad de Cantabria",
@@ -47,7 +47,7 @@
   "CORDEX_domain": "EUR-44; EUR-11; AFR-44",
   "terms_of_use": "unrestricted",
   "package": "downscaleR package for R, https://github.com/SantanderMetGroup/downscaleR"
-  }
+  },
   
   "5":
 { "institution":  "Norwegian Meteorological Institute",
