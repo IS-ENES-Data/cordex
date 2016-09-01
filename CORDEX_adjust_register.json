@@ -1,0 +1,41 @@
+# test 1
+# test 2
+
+# test 3
+{
+"1":
+{ "institution":  "Swedish Meteorological and Hydrological Institute, Rossby Centre",
+  "institute_id": "SMHI",
+  "contact": "rossby.cordex@smhi.se",
+  "bc_method": "Distribution-Based Scaling",
+  "bc_method_id": "DBS45",
+  "reference": "Yang et al. 2010: Distribution-based scaling to improve usability of regional  climate model projections for hydrological climate change impact studies, doi:10.2166/nh.2010.004",
+  "CORDEX_domain": "EUR-44; EUR-11; AFR-44; WAS-44",
+  "terms_of_use": "unrestricted",
+  "package": "na"
+},
+
+"2":
+{ "institution":  "Technical University of Crete",
+  "institute_id": "TUC",
+  "contact": "manolis@hydromech.gr",
+  "bc_method": "Multisegment Statistical Bias correction",
+  "bc_method_id": "MSBC",
+  "reference": "Grillakis et al. 2013: Multisegment statistical bias correction of daily GCM precipitation output. Journal of Geophysical Research: Atmospheres, 118(8), 3150-3162, doi.org/10.1002/jgrd.50323",
+"CORDEX_domain": "EUR-44; EUR-11; AFR-44; WAS-44",
+"terms_of_use": "unrestricted",
+"package": "na"
+  },
+
+"3":
+{ "institution":  "Meteorology Group, University of Cantabria",
+  "institute_id": "UCAN",
+  "contact": "Sixto Herrera, herrerasd@unican.es ",
+  "bc_method": "Generalized Quantile Mapping",
+  "bc_method_id": "GQM",
+  "reference": "Gutjahr and Heinemann, 2013: Comparing precipitation bias correction methods for high-resolution regional climate simulations using COSMO-CLM Effects on extreme values and climate change signal. Theor. Appl. Climatol., 114, doi:10.1007/s00704-013-0834-z",
+"CORDEX_domain": "EUR-44; EUR-11; AFR-44; WAS-44",
+"terms_of_use": "unrestricted",
+"package": "downscaleR, https://github.com/SantanderMetGroup/downscaleR/wiki"
+  }
+}
