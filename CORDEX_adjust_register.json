@@ -21,7 +21,7 @@
   "bc_method_id": "MSBC",
   "reference": "Grillakis et al. 2013,  doi:10.1002/jgrd.50323",
   "CORDEX_domain": "EUR-44; EUR-11; AFR-44; WAS-44",
-  "terms_of_use": "non-commercial",
+  "terms_of_use": "unrestricted",
   "package": "na"
   },
 
@@ -59,5 +59,18 @@
   "CORDEX_domain": "EUR-44; EUR-11",
   "terms_of_use": "unrestricted",
   "package": "qmap package for R, v. 1.0-3"
+  }
+}
+
+  "6":
+{ "institution":  "Institut Pierre Simon Laplace",
+  "institute_id": "IPSL",
+  "contact": "na",
+  "bc_method": "Cumulative Distribution Function",
+  "bc_method_id": "CDFT21",
+  "reference": "Vrac et al. 2016, doi:10.1002/2015JD024511",
+  "CORDEX_domain": "EUR-11",
+  "terms_of_use": "unrestricted",
+  "package": "na"
   }
 }
