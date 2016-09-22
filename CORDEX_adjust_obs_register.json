@@ -7,7 +7,7 @@
   "dataset": "E-OBS daily gridded observational dataset",
   "dataset_id": "EOBS",
   "reference": "Haylock et al. 2008, doi:10.1029/2008JD10201; www.ecad.eu/E-OBS",
-  "tou_bc_simulation": "unrestricted",
+  "tou_bc_simulation": "unrestricted"
 },
 
 "2":
@@ -16,7 +16,7 @@
   "dataset": "regional reanalysis MESAN (EU FP7 EURO4M project)",
   "dataset_id": "MESAN",
   "reference": "http://www.euro4m.eu",
-  "tou_bc_simulation": "unrestricted",
+  "tou_bc_simulation": "unrestricted"
 },
 
 "3":
@@ -25,7 +25,7 @@
   "dataset": "WATCH Forcing Data ERA Interim",
   "dataset_id": "WFDEI",
   "reference": "Weedon et al. 2014, doi:10.1002/2014WR015638; www.eu-watch.org",
-  "tou_bc_simulation": "unrestricted",
-},
+  "tou_bc_simulation": "unrestricted"
+}
 
 }
