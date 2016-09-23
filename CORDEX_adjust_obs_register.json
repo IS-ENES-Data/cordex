@@ -15,7 +15,7 @@
   "institute_id": "SMHI",
   "dataset": "regional reanalysis MESAN (EU FP7 EURO4M project)",
   "dataset_id": "MESAN",
-  "reference": "http://www.euro4m.eu",
+  "reference": "Landelius et al. 2016, doi: 10.1002/qj.2813; MESAN data is available on ESGF under the CLIPC project",
   "tou_bc_simulation": "unrestricted"
 },
 
