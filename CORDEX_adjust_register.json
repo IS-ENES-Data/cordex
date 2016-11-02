@@ -1,0 +1,75 @@
+# Registration of methods for bias adjustment of CORDEX simulations
+
+{
+"1":
+{ "institution":  "Swedish Meteorological and Hydrological Institute",
+  "institute_id": "SMHI",
+  "contact": "rossby.cordex@smhi.se",
+  "bc_method": "Distribution-Based Scaling",
+  "bc_method_id": "DBS45",
+  "reference": "Yang et al. 2010, doi:10.2166/nh.2010.004",
+  "CORDEX_domain": "EUR-44; EUR-11; AFR-44; WAS-44",
+  "terms_of_use": "unrestricted",
+  "package": "na"
+},
+
+"2":
+{ "institution":  "Technical University of Crete",
+  "institute_id": "TUC",
+  "contact": "manolis@hydromech.gr",
+  "bc_method": "Multisegment Statistical Bias correction",
+  "bc_method_id": "MSBC",
+  "reference": "Grillakis et al. 2013,  doi:10.1002/jgrd.50323",
+  "CORDEX_domain": "EUR-44; EUR-11; AFR-44; WAS-44",
+  "terms_of_use": "unrestricted",
+  "package": "na"
+  },
+
+"3":
+{ "institution":  "Meteorology Group, Universidad de Cantabria",
+  "institute_id": "UCAN",
+  "contact": "Sixto Herrera, herrerasd@unican.es ",
+  "bc_method": "Seasonally Adjusted Empirical Quantile Mapping",
+  "bc_method_id": "EQM",
+  "reference": "Déqué 2007, doi:10.1007/s00704-013-0834-z; Wilcke et al. 2013, doi: 10.1007/s10584-013-0845-x",
+  "CORDEX_domain": "EUR-44; EUR-11; AFR-44",
+  "terms_of_use": "unrestricted",
+  "package": "downscaleR package for R, https://github.com/SantanderMetGroup/downscaleR"
+  },
+
+  "4":
+{ "institution":  "Meteorology Group, Universidad de Cantabria",
+  "institute_id": "UCAN",
+  "contact": "Sixto Herrera, herrerasd@unican.es ",
+  "bc_method": "ISI-MIP",
+  "bc_method_id": "ISI-MIP",
+  "reference": "Hempel et al. 2013, doi:10.1007/s10584-013-0845-x",
+  "CORDEX_domain": "EUR-44; EUR-11; AFR-44",
+  "terms_of_use": "unrestricted",
+  "package": "downscaleR package for R, https://github.com/SantanderMetGroup/downscaleR"
+  },
+  
+  "5":
+{ "institution":  "Norwegian Meteorological Institute",
+  "institute_id": "METNO",
+  "contact": "Andreas Dobler, andreas.dobler@met.no",
+  "bc_method": "Quantile mapping",
+  "bc_method_id": "QMAP",
+  "reference": "Gudmundsson et al. 2012, doi:10.5194/hess-16-3383-2012",
+  "CORDEX_domain": "EUR-44; EUR-11",
+  "terms_of_use": "unrestricted",
+  "package": "qmap package for R, v. 1.0-3"
+},
+
+  "6":
+{ "institution":  "Institut Pierre Simon Laplace",
+  "institute_id": "IPSL",
+  "contact": "na",
+  "bc_method": "Cumulative Distribution Function",
+  "bc_method_id": "CDFT21",
+  "reference": "Vrac et al. 2016, doi:10.1002/2015JD024511",
+  "CORDEX_domain": "EUR-11",
+  "terms_of_use": "unrestricted",
+  "package": "na"
+  }
+}
